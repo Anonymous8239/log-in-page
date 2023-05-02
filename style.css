@@ -51,9 +51,10 @@ html {
   border-raidus: 50px;
   color: white;
   background-color: #1b7ced;
-  border-color: black;
+  border-color: white;
 text-align: center;
-  
+  width: 120px;
+  height: 40px;
 }
 .login-box p{
   font-family: 'main';
