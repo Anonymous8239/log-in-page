@@ -44,10 +44,6 @@ html {
     padding: 20px;
 }
 .login-box button{
-  display: flex;
-  justify-content: center;
-}
-.login-box button{
   border-raidus: 50px;
   color: white;
   background-color: #1b7ced;
